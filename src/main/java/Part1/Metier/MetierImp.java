@@ -1,6 +1,6 @@
-package Metier;
+package Part1.Metier;
 
-import Dao.IDao;
+import Part1.Dao.IDao;
 import org.springframework.stereotype.Component;
 
 @Component("metier")

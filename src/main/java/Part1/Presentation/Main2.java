@@ -1,7 +1,7 @@
-package Presentation;
+package Part1.Presentation;
 
-import Dao.IDao;
-import Metier.IMetier;
+import Part1.Dao.IDao;
+import Part1.Metier.IMetier;
 
 import java.io.File;
 import java.io.FileNotFoundException;

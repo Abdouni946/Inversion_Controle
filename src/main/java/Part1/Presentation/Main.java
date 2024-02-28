@@ -1,7 +1,7 @@
-package Presentation;
+package Part1.Presentation;
 
-import Dao.DaoImp;
-import Metier.MetierImp;
+import Part1.Dao.DaoImp;
+import Part1.Metier.MetierImp;
 
 public class Main {
     public static void main(String[] args) {

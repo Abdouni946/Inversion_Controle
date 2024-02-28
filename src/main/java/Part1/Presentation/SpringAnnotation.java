@@ -1,7 +1,7 @@
-package Presentation;
+package Part1.Presentation;
 
-import Dao.IDao;
-import Metier.IMetier;
+import Part1.Dao.IDao;
+import Part1.Metier.IMetier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

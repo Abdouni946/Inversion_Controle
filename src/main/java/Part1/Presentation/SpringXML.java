@@ -1,6 +1,6 @@
-package Presentation;
+package Part1.Presentation;
 
-import Metier.IMetier;
+import Part1.Metier.IMetier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
